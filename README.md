@@ -1,2 +1,2 @@
-# Linear-Regression
-CO2 emissions (target) based on engine size and cylinder size
+# AI_Models_Projects
+All projects related to the AI Models Class will be posted here
